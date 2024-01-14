@@ -8,4 +8,4 @@ Jinja2
 itsdangerous
 MarkupSafe
 pandas
-PIL
+PIL==1.21.4
